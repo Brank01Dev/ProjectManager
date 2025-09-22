@@ -16,6 +16,6 @@ The goal was to practice Laravel basics and get comfortable with its structure.
 - CRUD operations (create, read, update, delete records)  
 - Blade templates for views  
 
-It’s mainly a practice project, not a production app.
+It’s a practice project.
 
 ---
