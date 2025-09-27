@@ -7,4 +7,3 @@ Route::get('/', function () {
 }); 
  
 Route::resource("/Project", "App\Http\Controllers\ProjectController");
-
